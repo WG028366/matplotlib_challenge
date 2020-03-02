@@ -1,0 +1,8 @@
+Matplotlib Analysis:
+
+Looking generally at the summary statistics table, Ramicane and Capomulin had the most consistent results.  These two drug regimens had significantly lower variance and standard deviation values than the rest of the drug regimens.  Those two drug regimens also had significantly lower mean tumor volumes than the rest of the test group.  
+Assessing the bar chart, Ramicane and Capomulin were are used as treatments in this study more often than any other drug.  I would expect the variance might decrease as treatment count increases.  Ramicane and Capomulin are our most studies drugs.  
+Looking at our pie chart, we have about an equal number of male mice to female mice.  This would indicate a non gender-biased study.  However, the pie chart does not analyze the ratio of male to female in each drug regimen.  Making subplots for each drug regimen would help further evaluate if there are any gender biases.  
+Looking at the Capomulin rate of change, we can see that the drug successfully reduces the size of tumor volume over time.  This leads us to believe that the drug is successful in it’s purpose on mice.  
+The scatter plot shows a loose positive correlation between weight and tumor volume.  Either heavier mice tend to have larger tumors, or the mice are simply heavier because their tumors are larger.  
+
